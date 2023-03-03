@@ -1,1 +1,3 @@
 # toast-repo
+
+int main ()
